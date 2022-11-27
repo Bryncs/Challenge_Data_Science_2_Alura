@@ -1,4 +1,4 @@
-# Challenge_Data_Science_2_Alura_Semana_1
+# InsightPlaces
 
 Tratamento e Filtragem de um Dataset da empresa fictícia InsightPlaces utilizando PySpark
 
