@@ -2,7 +2,7 @@
 
 Tratamento e Filtragem de um Dataset da empresa fictícia InsightPlaces utilizando PySpark
 
-Etapas realizadas
+## Etapas realizadas
 
 Preparando os Dados:
 
@@ -11,3 +11,11 @@ Preparando os Dados:
 - Dataset filtrado conforme solicitado;
 - Transformação de listas para inteiros;
 - Comparativo entre arquivos Parquet e CSV.
+
+Testando Modelos de Machine Learning:
+
+- Retirando valores nulos
+- Criando variáveis Dummy
+- Preparando dados com Spark MLlib
+- Testando modelos (Regressão Linear, Árvore de Decisão, Random Forest, Gradient-boosted Tree Regression)
+- Otimizando modelos Cross Validation
